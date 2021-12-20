@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Eric and I'm open to work as Frontend React developper! 👋
 
 <!--
 **Eric-Juquel/Eric-Juquel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
